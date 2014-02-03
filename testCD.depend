@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1391418430 source:c:\users\evshary\documents\github\testcd\testcd.c
+	<stdio.h>
+	<windows.h>
+
